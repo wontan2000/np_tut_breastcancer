@@ -1,7 +1,7 @@
 # Numpy and matplotlib tutorial for beginners using a breastcancer dataset.
 
 ## Running this tutorial online:
-You can Launch this tutorial on [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/subhacom/np_tut_breastcancer/master) or [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/subhacom/np_tut_breastcancer/blob/master/Wisconsin_breast_cancer_data.ipynb).
+You can Launch this tutorial on [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/wontan2000/np_tut_breastcancer/master) or [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/subhacom/np_tut_breastcancer/blob/master/Wisconsin_breast_cancer_data.ipynb).
 The slide-show will work on `binder`, but not `colab`. Press `Alt+r` to toggle slide-show.
 
 ## Running this tutorial on your own computer:
